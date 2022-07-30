@@ -1,0 +1,12 @@
+D:\PhoneBookVS\PhoneBookVS\bin\Debug\PhoneBookVS.exe.config
+D:\PhoneBookVS\PhoneBookVS\bin\Debug\PhoneBookVS.exe
+D:\PhoneBookVS\PhoneBookVS\bin\Debug\PhoneBookVS.pdb
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.csproj.AssemblyReference.cache
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.csproj.SuggestedBindingRedirects.cache
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.Properties.Resources.resources
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.csproj.GenerateResource.cache
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.csproj.CoreCompileInputs.cache
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.exe
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.pdb
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.Form1.resources
+D:\PhoneBookVS\PhoneBookVS\obj\Debug\PhoneBookVS.Form2.resources
