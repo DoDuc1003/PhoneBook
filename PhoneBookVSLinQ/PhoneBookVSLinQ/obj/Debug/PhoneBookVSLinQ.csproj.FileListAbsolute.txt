@@ -1,0 +1,12 @@
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\bin\Debug\PhoneBookVSLinQ.exe.config
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\bin\Debug\PhoneBookVSLinQ.exe
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\bin\Debug\PhoneBookVSLinQ.pdb
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.csproj.AssemblyReference.cache
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.csproj.SuggestedBindingRedirects.cache
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.Form1.resources
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.FormUser.resources
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.Properties.Resources.resources
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.csproj.GenerateResource.cache
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.csproj.CoreCompileInputs.cache
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.exe
+D:\PhoneBookVSLinQ\PhoneBookVSLinQ\obj\Debug\PhoneBookVSLinQ.pdb
